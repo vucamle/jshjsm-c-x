@@ -1,0 +1,15 @@
+.box.div1
+  {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img {background:;}
+h2{color: red;}
+
+h6{color: gray;}
+h3{color: black;}
+h5{color: rebeccapurple;}
+i{color:green ;}
+p{color: chocolate;}
